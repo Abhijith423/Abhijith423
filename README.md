@@ -3,10 +3,9 @@
 A technical enthusiast likes developing,coding,exploring and building over new technologies.
 
 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/abhijith-m-s-080310328/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BU81D7auERKSpKrRpsUMiCQ%3D%3D)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@abhijithms5733)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijithemes@email.com)
-[![Instagram](https://www.instagram.com/abhijith_671?igsh=MWFsdngza3o3d2p1cA==)
 
 💻 Technical Field:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
