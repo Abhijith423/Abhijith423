@@ -22,9 +22,9 @@ A technical enthusiast likes developing,coding,exploring and building over new t
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 📊 Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithkumars&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithkumars&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jithkumars&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith423&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith423&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhijith423&theme=radical)](https://git.io/streak-stats)
 
  Random Dev Quote:
 “The soul never thinks without a mental image.”
