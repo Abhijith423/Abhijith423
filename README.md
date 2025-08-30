@@ -19,6 +19,7 @@ A technical enthusiast likes developing,coding,exploring and building over new t
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+React JS
 
 📊 Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith423&show_icons=true&theme=radical)
