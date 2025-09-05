@@ -20,6 +20,8 @@ A technical enthusiast likes developing,coding,exploring and building over new t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 📊 Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith423&show_icons=true&theme=radical)
